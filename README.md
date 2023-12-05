@@ -1,6 +1,6 @@
-# Hello, I'm Lucas Yukio Fukuda Matsumoto 👋
+# Hello, I'm Lucas 👋
 
-I'm a computer engineering student. I'm passionate about quantum computing, artificial intelligence and spacetime exploration.
+I'm a bachelor of Civil Engineering and a Computer Engineering student. I'm passionate about quantum computing, artificial intelligence and spacetime exploration.
 
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL
