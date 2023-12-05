@@ -8,7 +8,7 @@ I'm a computer engineering student. I'm passionate about quantum computing, arti
 - Frameworks: Node.js
 
 ## 📫 How to reach me
-You can reach out to me searching for lucasyfm, or send me an email at lucasyfm@hotmail.com.
+Search for lucasyfm, or send me an email at lucasyfm@hotmail.com.
 
 <!--
 **iLukSbr/iLukSbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
