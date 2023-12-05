@@ -3,9 +3,10 @@
 I'm a bachelor of Civil Engineering and a Computer Engineering student. I'm passionate about quantum computing, artificial intelligence and spacetime exploration.
 
 ## 🛠 Skills
-- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL
+- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS
 - Tools: VS Code
 - Frameworks: Node.js
+- Microcontrollers: Arduino, ESP32
 
 ## 📫 How to reach me
 Search for lucasyfm, or send me an email at lucasyfm@hotmail.com.
