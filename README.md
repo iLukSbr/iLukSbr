@@ -3,10 +3,17 @@
 I'm a bachelor of Civil Engineering and a Computer Engineering student. I'm passionate about quantum computing, artificial intelligence and spacetime exploration.
 
 ## 🛠 Skills
-- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS
-- Tools: VS Code
+- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX
+- Tools: VS Code, Visual Studio, Spyder, Git, MySQL Workbench, Arduino IDE, Code::Blocks, BlueJ
 - Frameworks: Node.js
 - Microcontrollers: Arduino, ESP32
+- 3D printing: SketchUp, AutoCAD, Autodesk Fusion 360, UltiMaker Cura, Creality Slicer
+- PCB design: KiCad, Fritzing, Falstad, ExpressPCB, PSIM
+- UI/UX: Adobe Photoshop, Canva
+- VM: Oracle VM
+- Software Engineering: StarUML, Astah UML
+- Data transmission: Metallic cable, optical fiber, RF
+- Hardware: PC assembly
 
 ## 📫 How to reach me
 Search for lucasyfm, or send me an email at lucasyfm@hotmail.com.
