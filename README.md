@@ -11,7 +11,7 @@ I'm a bachelor of Civil Engineering and a Computer Engineering student. I'm pass
 - PCB design: KiCad, Fritzing, Falstad, ExpressPCB, PSIM
 - UI/UX: Adobe Photoshop, Canva
 - VM: Oracle VM
-- Software Engineering: StarUML, Astah UML
+- Software Engineering: StarUML, Astah UML, Object Oriented (OO) Programming
 - Data transmission: Metallic cable, optical fiber, RF
 - Hardware: PC assembly
 
