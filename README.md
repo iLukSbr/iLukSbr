@@ -14,6 +14,7 @@ I'm a bachelor of Civil Engineering and a Computer Engineering student. I'm pass
 - Software Engineering: StarUML, Astah UML, Object Oriented (OO) Programming
 - Data transmission: Metallic cable, optical fiber, RF
 - Hardware: PC assembly
+- Artificial Intelligence: Prompts for AI tools
 
 ## 📫 How to reach me
 Search for lucasyfm, or send me an email at lucasyfm@hotmail.com.
