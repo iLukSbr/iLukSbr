@@ -6,11 +6,10 @@ I'm a Civil Engineer and a Computer Engineering student. I'm passionate about st
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX
 - Framework: Node.js
 - Microcontroller: Arduino, ESP, Altera
-- Art: Adobe Photoshop, Canva
-- Paradigm: Object-oriented
-- Project: UML, PCB design, 3D printing
+- Paradigm: Procedural, Object-oriented
+- Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
-- Hardware: PC assembly and OC
+- Hardware: PC assembly, OC
 - AI: Prompts
 
 ## 📫 Reach me on social media
