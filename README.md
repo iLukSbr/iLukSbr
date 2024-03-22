@@ -13,7 +13,7 @@ I'm a Civil Engineer and a Computer Engineering student. I'm passionate about st
 - Hardware: PC assembly and OC
 - AI: Prompts
 
-## 📫 How to reach me
+## 📫 Reach me in social media
 https://linktr.ee/lucasyfm
 
 <!--
