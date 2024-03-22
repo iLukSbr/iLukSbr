@@ -1,6 +1,6 @@
 # Hello, I'm Lucas 👋
 
-I'm a Civil Engineer and a Computer Engineering student. I'm passionate about structural analysis, quantum computing, artificial intelligence, astronomy and aerospace industry, and a technologies enthusiast.
+I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, astronomy and aerospace industry.
 
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX
