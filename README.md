@@ -1,23 +1,20 @@
 # Hello, I'm Lucas 👋
 
-I'm a bachelor of Civil Engineering and a Computer Engineering student. I'm passionate about structural analysis, quantum computing, artificial intelligence and spacetime exploration.
+I'm a Civil Engineer and a Computer Engineering student. I'm passionate about structural analysis, quantum computing, artificial intelligence, astronomy and aerospace industry, and a technologies enthusiast.
 
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX
-- Tools: VS Code, Visual Studio, Spyder, Git, MySQL Workbench, Arduino IDE, Code::Blocks, BlueJ
-- Frameworks: Node.js
-- Microcontrollers: Arduino, ESP32
-- 3D printing: SketchUp, AutoCAD, Autodesk Fusion 360, UltiMaker Cura, Creality Slicer
-- PCB design: KiCad, Fritzing, Falstad, ExpressPCB, PSIM
-- UI/UX: Adobe Photoshop, Canva
-- VM: Oracle VM
-- Software Engineering: StarUML, Astah UML, Object Oriented (OO) Programming
-- Data transmission: Metallic cable, optical fiber, RF
-- Hardware: PC assembly
-- Artificial Intelligence: Prompts for AI tools
+- Framework: Node.js
+- Microcontroller: Arduino, ESP, Altera
+- Art: Adobe Photoshop, Canva
+- Paradigm: Object-oriented
+- Project: UML, PCB design, 3D printing
+- Data transmission: Metallic cable, optical fiber, LoRa
+- Hardware: PC assembly and OC
+- AI: Prompts
 
 ## 📫 How to reach me
-Search for lucasyfm, or send me an email at lucasyfm@hotmail.com.
+https://linktr.ee/lucasyfm
 
 <!--
 **iLukSbr/iLukSbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
