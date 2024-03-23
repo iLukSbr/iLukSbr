@@ -9,7 +9,7 @@ I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enth
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
-- Hardware: PC assembly, OC
+- Hardware: PC assembly, OC, soldering, circuit assembly
 - AI: Prompts
 
 ## 📫 Reach me on social media
