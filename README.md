@@ -3,7 +3,7 @@
 I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, astronomy and aerospace industry.
 
 ## 🛠 Skills
-- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX
+- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX, VHDL
 - Framework: Node.js
 - Microcontroller: Arduino, ESP, Altera
 - Paradigm: Procedural, Object-oriented
