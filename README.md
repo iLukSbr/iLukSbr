@@ -13,7 +13,7 @@ I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enth
 - AI: Prompts
 
 ## 📫 Reach me on social media
-https://linktr.ee/lucasyfm
+https://linktr.ee/iLukS
 
 <!--
 **iLukSbr/iLukSbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
