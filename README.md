@@ -16,7 +16,7 @@ I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enth
 https://linktr.ee/iLukS
 
 <div align="center">
-[<img src="https://github.com/iLukSbr/iLukSbr/blob/3497cdfc3756659f6de128ed5f775f4f0cff0e92/iluks_banner.png"/>]
+<img src="https://github.com/iLukSbr/iLukSbr/blob/3497cdfc3756659f6de128ed5f775f4f0cff0e92/iluks_banner.png"/>
 </div>
 
 <!--
