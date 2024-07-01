@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-## <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/babf9ce797201af76b8f00809bed4dcbee29f8ce/gifs/hand_waving.gif" min-width="42px" max-width="42px" width="42px"> Hello, I'm Lucas! <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/waving_pikachu.gif" min-width="42px" max-width="42px" width="42px">
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/babf9ce797201af76b8f00809bed4dcbee29f8ce/gifs/hand_waving.gif" min-width="42px" max-width="42px" width="42px"> Hello, I'm Lucas! <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/waving_pikachu.gif" min-width="42px" max-width="42px" width="42px">
 [![wakatime](https://wakatime.com/badge/user/e35b3c3d-90ff-4abd-8711-b10c4630c8f8.svg)](https://wakatime.com/@e35b3c3d-90ff-4abd-8711-b10c4630c8f8)
 
 `Computer Engineering student`
@@ -12,10 +12,10 @@
 `Developer Fullstack`
 <br>
 
-# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/" min-width="42px" max-width="42px" width="42px"> About me <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/17698ae2a041350fb37790aab5f71668dd3aee74/gifs/satellite.gif" min-width="42px" max-width="42px" width="42px">
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/chip.gif" min-width="42px" max-width="42px" width="42px"> About me <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/17698ae2a041350fb37790aab5f71668dd3aee74/gifs/satellite.gif" min-width="42px" max-width="42px" width="42px">
 I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
-# Languages and Frameworks
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Languages and Frameworks
 
 
 ## 🛠 Skills
