@@ -15,6 +15,9 @@
 # About me
 I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
+# Languages and Frameworks
+
+
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX, VHDL
 - Framework: Node.js
