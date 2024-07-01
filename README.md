@@ -15,6 +15,10 @@ I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enth
 ## 📫 Reach me on social media
 https://linktr.ee/iLukS
 
+<div align="center">
+[<img src="https://github.com/iLukSbr/iLukSbr/blob/3497cdfc3756659f6de128ed5f775f4f0cff0e92/iluks_banner.png"/>]
+</div>
+
 <!--
 **iLukSbr/iLukSbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
