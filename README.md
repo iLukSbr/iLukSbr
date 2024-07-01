@@ -1,6 +1,19 @@
-# Hello, I'm Lucas 👋
+<!--<img src="h" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">-->
 
-I'm a Civil Engineer and a Computer Engineering student. I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, astronomy and aerospace industry.
+## Hello, I'm Lucas!
+[![wakatime](https://wakatime.com/badge/user/e35b3c3d-90ff-4abd-8711-b10c4630c8f8.svg)](https://wakatime.com/@e35b3c3d-90ff-4abd-8711-b10c4630c8f8)
+
+`Computer Engineering student`
+<br>
+`Civil Engineer`
+<br>
+`Graphic Designer`
+<br>
+`Developer Fullstack`
+<br>
+
+# About me
+I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX, VHDL
