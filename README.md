@@ -12,7 +12,7 @@
 `Developer Fullstack`
 <br>
 
-# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/white_cat.gif" min-width="42px" max-width="42px" width="42px"> About me <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/white_cat.gif" min-width="42px" max-width="42px" width="42px">
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/" min-width="42px" max-width="42px" width="42px"> About me <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/17698ae2a041350fb37790aab5f71668dd3aee74/gifs/satellite.gif" min-width="42px" max-width="42px" width="42px">
 I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
 # Languages and Frameworks
