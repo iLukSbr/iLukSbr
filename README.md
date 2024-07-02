@@ -18,17 +18,21 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 # <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Languages and Frameworks <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
 
 
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Microcontrollers <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
+- Arduino, ESP, Altera
+
+# Page under construction!
+
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX, VHDL
 - Framework: Node.js
-- Microcontroller: Arduino, ESP, Altera
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
 - Hardware: PC assembly, OC, soldering, circuit assembly
 - AI: Prompts
 
-## 📫 Reach me on social media
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-width="42px" max-width="42px" width="42px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/message.gif" min-width="42px" max-width="42px" width="42px">9
 https://linktr.ee/iLukS
 
 <div align="center">
