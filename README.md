@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/3497cdfc3756659f6de128ed5f775f4f0cff0e92/iluks_banner.png"/>
+</div>
+
 <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/coding.gif" min-height="390px" max-height="390px" height="390px" align="right" alt="Computer">
 
 # <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/babf9ce797201af76b8f00809bed4dcbee29f8ce/gifs/hand_waving.gif" min-height="32px" max-height="32px" height="32px"> Hello, I'm Lucas! <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/waving_pikachu.gif" min-height="32px" max-height="32px" height="32px">
@@ -48,12 +52,6 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iLukSbr&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true&locale=pt-br"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLukSbr&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
-</div>
-
-<div align="center">
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/3497cdfc3756659f6de128ed5f775f4f0cff0e92/iluks_banner.png"/>
 </div>
 
 <!--
