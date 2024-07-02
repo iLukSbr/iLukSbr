@@ -20,7 +20,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 </h1>
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Microcontrollers <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-width="42px" max-width="42px" width="42px"> Microcontrollers <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-width="42px" max-width="42px" width="42px">
 </h1>
 - Arduino, ESP, Altera
 
