@@ -58,7 +58,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/321f345b7eadc9308f5667d154d33ef6cf64815e/gifs/waveline.svg">
 </div>
 
-![snake ainmation](https://raw.githubusercontent.com/iLukSbr/iLukSbr/output/github-snake.svg)
+![snake animation](https://raw.githubusercontent.com/iLukSbr/iLukSbr/output/github-snake.svg)
 
 <!--
 **iLukSbr/iLukSbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
