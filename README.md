@@ -15,13 +15,16 @@
 # <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/chip.gif" min-width="42px" max-width="42px" width="42px"> About me <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/17698ae2a041350fb37790aab5f71668dd3aee74/gifs/satellite.gif" min-width="42px" max-width="42px" width="42px">
 I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
-# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Languages and Frameworks <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Languages and Frameworks <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
+</h1>
 
-
-# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Microcontrollers <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-width="42px" max-width="42px" width="42px"> Microcontrollers <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-width="42px" max-width="42px" width="42px">
+</h1>
 - Arduino, ESP, Altera
 
-# Page under construction!
+## Page under construction!
 
 ## 🛠 Skills
 - Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX, VHDL
@@ -32,10 +35,13 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - Hardware: PC assembly, OC, soldering, circuit assembly
 - AI: Prompts
 
-# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-width="42px" max-width="42px" width="42px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-width="42px" max-width="42px" width="42px">
-https://linktr.ee/iLukS
-
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-width="42px" max-width="42px" width="42px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-width="42px" max-width="42px" width="42px">
+</h1>
 <div align="center">
+    <a href="https://linktr.ee/iLukS">Linktree</a>
+    <br>
+    <br>
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/3497cdfc3756659f6de128ed5f775f4f0cff0e92/iluks_banner.png"/>
 </div>
 
