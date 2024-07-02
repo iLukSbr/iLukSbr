@@ -43,7 +43,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - VHDL
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/a1fe2dab28aec08cb754c46c1a69141c5e496d9b/gifs/datacenter.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/928c9cea310f8f6d0da22b38dcbe1b2b9223501/gifs/database.svg" min-height="32px" max-height="32px" height="32px">
 </h1>
 
 ![MySQL](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/mysql.svg)
@@ -61,7 +61,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
-- Hardware: PC assembly, OC, soldering, circuit assembly
+- Hardware: PC assembly, overclock, soldering, circuit assembly
 - AI: Text, image, sound and video generation prompts
 
 <h1 align="center">
