@@ -32,7 +32,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - Hardware: PC assembly, OC, soldering, circuit assembly
 - AI: Prompts
 
-# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-width="42px" max-width="42px" width="42px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-width="42px" max-width="42px" width="42px">9
+# <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-width="42px" max-width="42px" width="42px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-width="42px" max-width="42px" width="42px">
 https://linktr.ee/iLukS
 
 <div align="center">
