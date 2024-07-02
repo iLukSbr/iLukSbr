@@ -40,6 +40,8 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![PowerShell](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/powershell.svg)
 ![.NET](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/net.svg)
 
+- VHDL
+
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-height="32px" max-height="32px" height="32px">
 </h1>
@@ -55,12 +57,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 
 - ESP, Altera
 
-
-
-## Page under construction!
-
 ## 🛠 Skills
-- Language: VHDL
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
