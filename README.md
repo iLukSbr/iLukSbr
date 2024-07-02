@@ -43,7 +43,9 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-height="32px" max-height="32px" height="32px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-height="32px" max-height="32px" height="32px">
 </h1>
 <div align="center">
-    <a href="https://linktr.ee/iLukS">Linktree</a>
+    <a href="https://linktr.ee/iLukS">
+        <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/321f345b7eadc9308f5667d154d33ef6cf64815e/static_pictures/linktree.png" alt="Linktree" min-height="32px" max-height="32px" height="32px">
+    </a>
 </div>
 
 <h1 align="center">
@@ -52,7 +54,11 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 <div align="center">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iLukSbr&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLukSbr&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
+    <br>
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/321f345b7eadc9308f5667d154d33ef6cf64815e/gifs/waveline.svg">
 </div>
+
+![snake ainmation](https://raw.githubusercontent.com/iLukSbr/iLukSbr/output/github-snake.svg)
 
 <!--
 **iLukSbr/iLukSbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
