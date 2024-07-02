@@ -43,7 +43,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - VHDL
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/a1fe2dab28aec08cb754c46c1a69141c5e496d9b/gifs/datacenter.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/a4c5a1f32a09def523c0072ab55bdee9cf7cbe50/gifs/database.gif" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/a1fe2dab28aec08cb754c46c1a69141c5e496d9b/gifs/datacenter.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/fcd802185b8185e36698f2b1ebff3a22588484e2/gifs/database.gif" min-height="32px" max-height="32px" height="32px">
 </h1>
 
 ![MySQL](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/mysql.svg)
@@ -57,12 +57,17 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 
 - ESP, Altera
 
-## 🛠 Skills
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-height="32px" max-height="32px" height="32px"> Artificial Intelligence <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-height="32px" max-height="32px" height="32px">
+</h1>
+
+- Text, image, sound and video generation prompts
+
+## 🛠 General Skills
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
 - Hardware: PC assembly, overclock, soldering, circuit assembly
-- AI: Text, image, sound and video generation prompts
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-height="32px" max-height="32px" height="32px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-height="32px" max-height="32px" height="32px">
