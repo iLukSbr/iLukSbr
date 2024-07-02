@@ -23,21 +23,49 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-height="32px" max-height="32px" height="32px"> Languages and Frameworks <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-height="32px" max-height="32px" height="32px">
 </h1>
 
+![C](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/c.svg)
+![C++](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/cpp.svg)
+![Java](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/java.svg)
+![Python](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/python.svg)
+![JavaScript](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/javascript.svg)
+![NodeJS](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/nodejs.svg)
+![HTML5](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/html5.svg)
+![CSS3](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/css3.svg)
+![LaTeX](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/latex.svg)
+![JavaFX](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/javafx.svg)
+![Nodemon](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/nodemon.svg)
+![Git](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/git.svg)
+![Markdown](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/markdown.svg)
+![YAML](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/yaml.svg)
+![PowerShell](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/powershell.svg)
+![.NET](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/net.svg)
+
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-height="32px" max-height="32px" height="32px">
+</h1>
+
+![MySQL](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/mysql.svg)
+![PostgreSQL](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/postgres.svg)
+
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-height="32px" max-height="32px" height="32px"> Microcontrollers <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-height="32px" max-height="32px" height="32px">
 </h1>
-- Arduino, ESP, Altera
+
+![Arduino](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/arduino.svg)
+
+- ESP, Altera
+
+
 
 ## Page under construction!
 
 ## 🛠 Skills
-- Language: C++, C, Java, JavaScript, Python, Fortran, MySQL, HTML, CSS, LaTeX, VHDL
-- Framework: Node.js
+- Language: VHDL
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
 - Data transmission: Metallic cable, optical fiber, LoRa
 - Hardware: PC assembly, OC, soldering, circuit assembly
-- AI: Prompts
+- AI: Text, image, sound and video generation prompts
 
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/9c01fe900eb87aeb8b35ea52d6544597d072a3f2/gifs/letterbox.gif" min-height="32px" max-height="32px" height="32px"> Reach me on social media <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/5ab1e723c93a62106393a56b0d5c9f5c7c189a5b/gifs/message.gif" min-height="32px" max-height="32px" height="32px">
