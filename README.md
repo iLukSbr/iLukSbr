@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/coding.gif" min-height="400px" max-height="400px" height="400px" align="right" alt="Computer">
+<img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/coding.gif" min-height="390px" max-height="390px" height="390px" align="right" alt="Computer">
 
 # <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/babf9ce797201af76b8f00809bed4dcbee29f8ce/gifs/hand_waving.gif" min-height="32px" max-height="32px" height="32px"> Hello, I'm Lucas! <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/4f43a1821f2971ed687a2d05f5a1effc9379653a/gifs/waving_pikachu.gif" min-height="32px" max-height="32px" height="32px">
 [![wakatime](https://wakatime.com/badge/user/e35b3c3d-90ff-4abd-8711-b10c4630c8f8.svg)](https://wakatime.com/@e35b3c3d-90ff-4abd-8711-b10c4630c8f8)
