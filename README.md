@@ -13,7 +13,7 @@
 <br>
 `Graphic Designer`
 <br>
-`Developer Fullstack`
+`Developer Full Stack`
 <br>
 
 ## <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/chip.gif" min-height="32px" max-height="32px" height="32px"> About me <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/17698ae2a041350fb37790aab5f71668dd3aee74/gifs/satellite.gif" min-height="32px" max-height="32px" height="32px">
