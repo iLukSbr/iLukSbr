@@ -58,7 +58,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - ESP, Altera
 
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/arduino.gif" min-height="32px" max-height="32px" height="32px"> Artificial Intelligence <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/6ddfbd6da1543e62bbfbbfafba8432aaad6ae485/gifs/microprocessor.gif" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Artificial Intelligence <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/neuron.webp" min-height="32px" max-height="32px" height="32px">
 </h1>
 
 - Text, image, sound and video generation prompts
