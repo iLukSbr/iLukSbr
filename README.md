@@ -50,8 +50,8 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/371961c0f5e73c2e46f407ec9abdcf8190eebd5d/gifs/tap_cat.gif" min-height="32px" max-height="32px" height="32px"> Stats <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/371961c0f5e73c2e46f407ec9abdcf8190eebd5d/gifs/lightning.gif" min-height="32px" max-height="32px" height="32px">
 </h1>
 <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=iLukSbr&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLukSbr&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=iLukSbr&show_icons=true&theme=ocean_dark&count_private=true&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iLukSbr&layout=compact&langs_count=6&theme=ocean_dark&hide_border=true"/>
 </div>
 
 <!--
