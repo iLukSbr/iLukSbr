@@ -12,6 +12,9 @@ jobs:
     steps:
       # Snake Animation
       - uses: iLukSbr/checkout@main
+        with:
+          repository: iLukSbr/snk
+          path: main
       - uses: iLukSbr/snk@main
         id: snake-gif
         with:
