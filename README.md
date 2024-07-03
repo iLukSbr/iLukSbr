@@ -39,8 +39,9 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![YAML](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/yaml.svg)
 ![PowerShell](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/powershell.svg)
 ![.NET](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/net.svg)
+![JSON](https://raw.githubusercontent.com/iLukSbr/iLukSbr/089d42064521e7bab618c669ac6c88597e443cdf/badges/json.svg)
 
-- VHDL, Batch
+- VHDL, Batch, Prolog
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/a1fe2dab28aec08cb754c46c1a69141c5e496d9b/gifs/datacenter.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/fcd802185b8185e36698f2b1ebff3a22588484e2/gifs/database.gif" min-height="32px" max-height="32px" height="32px">
@@ -54,8 +55,9 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 </h2>
 
 ![Arduino](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/arduino.svg)
+![Espressif](https://raw.githubusercontent.com/iLukSbr/iLukSbr/089d42064521e7bab618c669ac6c88597e443cdf/badges/espressif.svg)
 
-- ESP, Altera
+- Altera
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Artificial Intelligence <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/neuron.webp" min-height="32px" max-height="32px" height="32px">
