@@ -41,7 +41,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![.NET](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/net.svg)
 ![JSON](https://raw.githubusercontent.com/iLukSbr/iLukSbr/089d42064521e7bab618c669ac6c88597e443cdf/badges/json.svg)
 
-- VHDL, Batch, Prolog
+- VHDL, Batch, Prolog, Fortran
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/a1fe2dab28aec08cb754c46c1a69141c5e496d9b/gifs/datacenter.gif" min-height="32px" max-height="32px" height="32px"> Databases <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/fcd802185b8185e36698f2b1ebff3a22588484e2/gifs/database.gif" min-height="32px" max-height="32px" height="32px">
