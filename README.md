@@ -20,7 +20,7 @@
 I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-height="32px" max-height="32px" height="32px"> Languages and Frameworks <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-height="32px" max-height="32px" height="32px"> Languages, Frameworks and Tools <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![C](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/c.svg)
