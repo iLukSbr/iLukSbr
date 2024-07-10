@@ -67,7 +67,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 
 ## 🛠 General Skills
 - Paradigm: Procedural, Object-oriented
-- Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Mapping
+- Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Geomapping
 - Data transmission: Metallic cable, optical fiber, LoRa
 - Hardware: PC assembly, overclock, soldering, circuit assembly
 
