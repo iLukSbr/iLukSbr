@@ -39,6 +39,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![YAML](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/yaml.svg)
 ![PowerShell](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/powershell.svg)
 ![.NET](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/net.svg)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JSON](https://raw.githubusercontent.com/iLukSbr/iLukSbr/089d42064521e7bab618c669ac6c88597e443cdf/badges/json.svg)
 
 - VHDL, Batch, Prolog, Fortran
