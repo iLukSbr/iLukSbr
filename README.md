@@ -33,6 +33,8 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![HTML5](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/html5.svg)
 ![CSS3](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/css3.svg)
 ![ROS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/ROS.svg)
+![Docker](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Docker.svg)
+![Git](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/git.svg)
 ![CMake](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/CMake.svg)
 ![JavaFX](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/javafx.svg)
 ![jQuery](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/jQuery.svg)
@@ -41,13 +43,11 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![Nodemon](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/nodemon.svg)
 ![LaTeX](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/latex.svg)
 ![Qt](https://github.com/iLukSbr/iLukSbr/blob/d870833b4e50cd44e06270602e3707c0a6c33afb/badges/Qt.svg)
-![Git](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/git.svg)
 ![Markdown](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/markdown.svg)
 ![YAML](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/yaml.svg)
 ![PowerShell](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/powershell.svg)
 ![WindowsTerminal](https://github.com/iLukSbr/iLukSbr/blob/7469cc4ba753fb64d03e6d3ef32d22cbdcdee373/badges/WindowsTerminal.svg)
 ![Fortran](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/Fortran.svg)
-![Docker](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Docker.svg)
 
 - VHDL, Batch, Prolog
 
