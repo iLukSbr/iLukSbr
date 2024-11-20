@@ -20,15 +20,17 @@
 I'm a technologies enthusiast, passionate about structural analysis, quantum computing, artificial intelligence, semiconductors and aerospace industry.
 
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-height="32px" max-height="32px" height="32px"> Languages, Frameworks and Tools <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-height="32px" max-height="32px" height="32px"> Languages, Frameworks, Libraries and Tools <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![C](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/c.svg)
 ![C++](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/cpp.svg)
+![CMake](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/CMake.svg)
 ![C#](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/C%23.svg)
 ![.NET](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/net.svg)
 ![Java](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/java.svg)
 ![JavaFX](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/javafx.svg)
+![jQuery](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/jQuery.svg)
 ![JavaScript](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/javascript.svg)
 ![JSON](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/json.svg)
 ![NodeJS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/nodejs.svg)
@@ -37,6 +39,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![HTML5](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/html5.svg)
 ![CSS3](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/css3.svg)
 ![LaTeX](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/latex.svg)
+![Qt](https://github.com/iLukSbr/iLukSbr/blob/d870833b4e50cd44e06270602e3707c0a6c33afb/badges/Qt.svg)
 ![Git](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/git.svg)
 ![Markdown](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/markdown.svg)
 ![YAML](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/yaml.svg)
@@ -44,6 +47,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![WindowsTerminal](https://github.com/iLukSbr/iLukSbr/blob/7469cc4ba753fb64d03e6d3ef32d22cbdcdee373/badges/WindowsTerminal.svg)
 ![Fortran](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/Fortran.svg)
 ![ROS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/ROS.svg)
+![Docker](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Docker.svg)
 
 - VHDL, Batch, Prolog
 
@@ -60,8 +64,10 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 
 ![Arduino](https://raw.githubusercontent.com/iLukSbr/iLukSbr/d7e1d4692899c1b0e8c79ba187acc6732da27a8d/badges/arduino.svg)
 ![Espressif](https://raw.githubusercontent.com/iLukSbr/iLukSbr/089d42064521e7bab618c669ac6c88597e443cdf/badges/espressif.svg)
+![RaspberryPi](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/RaspberryPi.svg)
+![PlatformIO](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/PlatformIO.svg)
 
-- Altera
+- Altera, STM32
 
 <h2 align="center">
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Machine Learning / Computer Vision <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/neuron.webp" min-height="32px" max-height="32px" height="32px">
@@ -72,9 +78,52 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![PyTorch](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/PyTorch.svg)
 ![pandas](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/pandas.svg)
 ![numpy](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/numpy.svg)
+![ChatGPT](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/ChatGPT.svg)
+![Gemini](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/GoogleAssistant.svg)
+![GitHub Copilot](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/GitHubCopilot.svg)
 
 - YOLO
 - Text, image, sound and video generation prompts for artificial intelligence
+
+<h2 align="center">
+    Blockchain
+</h2>
+
+![Bitcoin](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Bitcoin.svg)
+
+<h2 align="center">
+    IDEs
+</h2>
+
+![VS Code](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/VisualStudioCode.svg)
+![Visual Studio](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/VisualStudio.svg)
+![CLion](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/CLion.svg)
+![IntelliJ IDEA](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/IntelliJIDEA.svg)
+![Rider](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Rider.svg)
+![PyCharm](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/PyCharm.svg)
+![Android Studio](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/AndroidStudio.svg)
+![Apache NetBeans](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/NetBeansIDE.svg)
+![Replit](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Replit.svg)
+![Notepad++](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Notepad%2B%2B.svg)
+![Spyder](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Spyder.svg)
+
+- DataGrip, pgAdmin, MySQL Workbench
+
+<h2 align="center">
+    Operating Systems
+</h2>
+
+![Windows](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Windows.svg)
+![Linux](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Linux.svg)
+![Android](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Android.svg)
+![iOS](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/iOS.svg)
+
+<h2 align="center">
+    Cloud
+</h2>
+
+![Vercel](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Vercel.svg)
+![GitHub Pages](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/GitHubPages.svg)
 
 ## 🛠 General Skills
 - Paradigm: Procedural, Object-oriented
