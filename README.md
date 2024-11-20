@@ -42,6 +42,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JSON](https://raw.githubusercontent.com/iLukSbr/iLukSbr/089d42064521e7bab618c669ac6c88597e443cdf/badges/json.svg)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 - VHDL, Batch, Prolog
 
@@ -66,6 +67,9 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 </h2>
 
 - Text, image, sound and video generation prompts
+- OpenCV
+- YOLO
+- TensorFlow
 
 ## 🛠 General Skills
 - Paradigm: Procedural, Object-oriented
