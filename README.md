@@ -23,21 +23,22 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
     <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/f34049122dbbfec8fa968dd0b0b04ef8b39c5750/gifs/developer.gif" min-height="32px" max-height="32px" height="32px"> Languages, Frameworks, Libraries and Tools <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/7a83dd8a4a22183813cf3775a166be4811e584c9/gifs/terminal.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
+![Python](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/python.svg)
 ![C](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/c.svg)
 ![C++](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/cpp.svg)
-![CMake](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/CMake.svg)
 ![C#](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/C%23.svg)
-![.NET](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/net.svg)
 ![Java](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/java.svg)
+![JavaScript](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/javascript.svg)
+![.NET](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/net.svg)
+![HTML5](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/html5.svg)
+![CSS3](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/css3.svg)
+![ROS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/ROS.svg)
+![CMake](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/CMake.svg)
 ![JavaFX](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/javafx.svg)
 ![jQuery](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/jQuery.svg)
-![JavaScript](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/javascript.svg)
 ![JSON](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/json.svg)
 ![NodeJS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/nodejs.svg)
 ![Nodemon](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/nodemon.svg)
-![Python](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/python.svg)
-![HTML5](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/html5.svg)
-![CSS3](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/css3.svg)
 ![LaTeX](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/latex.svg)
 ![Qt](https://github.com/iLukSbr/iLukSbr/blob/d870833b4e50cd44e06270602e3707c0a6c33afb/badges/Qt.svg)
 ![Git](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/git.svg)
@@ -46,7 +47,6 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![PowerShell](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/powershell.svg)
 ![WindowsTerminal](https://github.com/iLukSbr/iLukSbr/blob/7469cc4ba753fb64d03e6d3ef32d22cbdcdee373/badges/WindowsTerminal.svg)
 ![Fortran](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/Fortran.svg)
-![ROS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/ROS.svg)
 ![Docker](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Docker.svg)
 
 - VHDL, Batch, Prolog
