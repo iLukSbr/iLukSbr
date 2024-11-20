@@ -41,6 +41,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![Markdown](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/markdown.svg)
 ![YAML](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/yaml.svg)
 ![PowerShell](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/powershell.svg)
+![WindowsTerminal](https://github.com/iLukSbr/iLukSbr/blob/7469cc4ba753fb64d03e6d3ef32d22cbdcdee373/badges/WindowsTerminal.svg)
 ![Fortran](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/Fortran.svg)
 ![ROS](https://github.com/iLukSbr/iLukSbr/blob/b6138d3b441d5a7b655b8a5566728db74f636250/badges/ROS.svg)
 
