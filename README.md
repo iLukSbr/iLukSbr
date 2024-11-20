@@ -125,7 +125,10 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![Vercel](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Vercel.svg)
 ![GitHub Pages](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/GitHubPages.svg)
 
-## 🛠 General Skills
+<h2 align="center">
+    <img src="https://github.com/iLukSbr/iLukSbr/blob/93304118c9dc888f81cc657007df125116841245/gifs/gears.gif" min-height="32px" max-height="32px" height="32px"> General Skills <img src="https://github.com/iLukSbr/iLukSbr/blob/93304118c9dc888f81cc657007df125116841245/gifs/tools.gif" min-height="32px" max-height="32px" height="32px">
+</h2>
+
 - Paradigm: Procedural, Object-oriented
 - Project: UML, PCB design, 3D printing, CAD, Structural Analysis, Geomapping
 - Data transmission: Metallic cable, optical fiber, LoRa
