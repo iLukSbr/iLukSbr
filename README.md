@@ -63,13 +63,17 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - Altera
 
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Artificial Intelligence <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/neuron.webp" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Machine Learning / Computer Vision <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/neuron.webp" min-height="32px" max-height="32px" height="32px">
 </h2>
 
-- Text, image, sound and video generation prompts
-- OpenCV
+![OpenCV](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/OpenCV.svg)
+![TensorFlow](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/TensorFlow.svg)
+![PyTorch](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/PyTorch.svg)
+![pandas](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/pandas.svg)
+![numpy](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/numpy.svg)
+
 - YOLO
-- TensorFlow
+- Text, image, sound and video generation prompts for artificial intelligence
 
 ## 🛠 General Skills
 - Paradigm: Procedural, Object-oriented
