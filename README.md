@@ -70,7 +70,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - Altera, STM32
 
 <h2 align="center">
-    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Machine Learning / Computer Vision <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/neuron.webp" min-height="32px" max-height="32px" height="32px">
+    <img src="https://raw.githubusercontent.com/iLukSbr/iLukSbr/532a8b16d92dac073d7208e8ceeada2f4de587b0/gifs/robot.gif" min-height="32px" max-height="32px" height="32px"> Machine Learning / Computer Vision <img src="https://github.com/iLukSbr/iLukSbr/blob/08cf3c65781692a3220ce4efdf378b16156d679b/gifs/neuron.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![OpenCV](https://github.com/iLukSbr/iLukSbr/blob/8015f5a1529757fd2c39f0f67cb1be29015df53d/badges/OpenCV.svg)
@@ -86,13 +86,13 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - Text, image, sound and video generation prompts for artificial intelligence
 
 <h2 align="center">
-    Blockchain
+    <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/blockchain.gif" min-height="32px" max-height="32px" height="32px"> Blockchain <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/btc.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![Bitcoin](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Bitcoin.svg)
 
 <h2 align="center">
-    IDEs
+    <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/document.gif" min-height="32px" max-height="32px" height="32px"> IDEs <img src="https://github.com/iLukSbr/iLukSbr/blob/3791fbdb9b9ec5ac21f0b82948993ea7994db9a9/gifs/vscode.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![VS Code](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/VisualStudioCode.svg)
@@ -110,7 +110,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 - DataGrip, pgAdmin, MySQL Workbench
 
 <h2 align="center">
-    Operating Systems
+    <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/linux.gif" min-height="32px" max-height="32px" height="32px"> Operating Systems <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/windows.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![Windows](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Windows.svg)
@@ -119,7 +119,7 @@ I'm a technologies enthusiast, passionate about structural analysis, quantum com
 ![iOS](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/iOS.svg)
 
 <h2 align="center">
-    Cloud
+    <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/clouds.gif" min-height="32px" max-height="32px" height="32px"> Cloud <img src="https://github.com/iLukSbr/iLukSbr/blob/9c69be2a0acba1cee43d27f45ae5c8dc7e09235c/gifs/server.gif" min-height="32px" max-height="32px" height="32px">
 </h2>
 
 ![Vercel](https://github.com/iLukSbr/iLukSbr/blob/129a4e96073cdd5cc165bfea5161e9f8612db86f/badges/Vercel.svg)
